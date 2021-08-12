@@ -1,0 +1,3 @@
+Este archivo existe solo para que github muestre la carpeta front end. 
+
+Mantengase hidratado tomando agua
